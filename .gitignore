@@ -1,0 +1,22 @@
+# Build outputs
+build/
+out/
+
+# OS files
+Thumbs.db
+.DS_Store
+desktop.ini
+
+# Editor files
+*.swp
+*.swo
+*~
+.vscode/
+.idea/
+
+# DevkitPro object files
+*.o
+*.d
+*.elf
+*.map
+*.lst
